@@ -14,8 +14,8 @@ REDIS_PASSWORD = environ.get(
 )  # redis password
 
 
-ADMINS = [6791744215]
-OWNER_ID = 6791744215  # Replace with your Telegram user ID
+ADMINS = [6200809034]
+OWNER_ID = 6200809034  # Replace with your Telegram user ID
 PRIVATE_CHAT_ID = -100  # CHAT WHERE YOU WANT TO STORE VIDEOS
 USER_CHANNEL = -100
 DUMP_CHANNEL = -100
